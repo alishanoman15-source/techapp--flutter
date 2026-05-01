@@ -74,8 +74,7 @@ All screens have been tested and working:
 - ✅ Profile edit
 - ✅ Logout functionality
 
-## 📸 Screenshots
-See `screenshots/` folder for app screenshots
+
 
 ## 👨‍💻 Author
 Alisha - BSIT Student
